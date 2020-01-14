@@ -1,0 +1,25 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "Node MongoDB Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Aidana Imangozha",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^3.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfiosecmtv/Coursera-Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tfiosecmtv/Coursera-Backend/issues"
+  },
+  "homepage": "https://github.com/tfiosecmtv/Coursera-Backend#readme"
+}
